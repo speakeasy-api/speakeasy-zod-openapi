@@ -1,0 +1,14 @@
+# OrderUpdate
+
+An order to update.
+
+
+## Fields
+
+| Field                                                                   | Type                                                                    | Required                                                                | Description                                                             | Example                                                                 |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| `burger_ids`                                                            | list[*float*]                                                           | :heavy_minus_sign:                                                      | The burgers in the order.                                               |                                                                         |
+| `note`                                                                  | *Optional[str]*                                                         | :heavy_minus_sign:                                                      | A note for the order.                                                   | No onions.                                                              |
+| `status`                                                                | [Optional[OrderUpdateStatus]](../../models/shared/orderupdatestatus.md) | :heavy_minus_sign:                                                      | The status of the order.                                                | pending                                                                 |
+| `table`                                                                 | *Optional[float]*                                                       | :heavy_minus_sign:                                                      | The table the order is for.                                             | 1                                                                       |
+| `time`                                                                  | [date](https://docs.python.org/3/library/datetime.html#date-objects)    | :heavy_minus_sign:                                                      | The time the order was placed.                                          | 2021-01-01T00:00:00.000Z                                                |
