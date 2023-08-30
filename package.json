@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "typescript": "^5.1.6",
+    "yaml": "^2.3.2",
     "zod": "^3.21.4",
     "zod-openapi": "^2.7.4"
   }
