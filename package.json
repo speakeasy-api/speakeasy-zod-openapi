@@ -1,0 +1,18 @@
+{
+  "name": "speakeasy-zod-openapi",
+  "version": "1.0.0",
+  "description": "A Zod OpenAPI Example with Speakeasy Integration",
+  "main": "index.js",
+  "scripts": {
+    "gen": "ts-node index.ts",
+    "gen-openapi": "ts-node index.ts > openapi.yaml",
+    "gen-sdk": "speakeasy generate sdk --schema openapi.yaml --lang python --out ./sdk"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.6",
+    "zod": "^3.21.4",
+    "zod-openapi": "^2.7.4"
+  }
+}
