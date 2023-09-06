@@ -1,21 +1,13 @@
-<p align="center">
-    <a href="https://speakeasyapi.dev">
-        <img alt="Speakeasy" title="Speakeasy" src="https://user-images.githubusercontent.com/68016351/196461357-fcb8d90f-cd67-498e-850f-6146c58d0114.png" width="400" style="color: black">
-    </a>
-</p>
+<div align="center">
 
-<p align="center">
-    <i>Speakeasy is the fastest way to ship developer experience for your APIs.</i><br/> 
-    <a href="https://speakeasyapi.dev/">speakeasyapi.dev</a>
-</p>
-
-<h1>
-    Speakeasy Zod OpenAPI Example
-</h1>
+<a href="[Speakeasy](https://speakeasyapi.dev/)">
+  <img src="https://github.com/speakeasy-api/speakeasy/assets/68016351/e959f81a-b250-4003-8c5c-a45b9463fc95" alt="Speakeasy Logo" width="400">
+<h2>Speakeasy Zod OpenAPI Example</h2>
+</a>
 
 </div>
 
-This example Zod schema demonstrates Speakeasy-recommended practices for generating clear OpenAPI specifications.
+This example Zod schema demonstrates Speakeasy-recommended practices for generating clear OpenAPI specifications. For the associated tutorial please see our [docsite](https://speakeasyapi.dev/docs/api-frameworks/zod/).
 
 ## Requirements
 
@@ -54,4 +46,3 @@ In the project's directory, run:
 ```bash
 npm run gen-openapi && npm run gen-sdk
 ```
->>>>>>> f1d5851 (initial commit)
