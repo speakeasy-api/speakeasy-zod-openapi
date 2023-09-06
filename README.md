@@ -7,7 +7,7 @@
 
 </div>
 
-This example Zod schema demonstrates Speakeasy-recommended practices for generating clear OpenAPI specifications. For the associated tutorial please see our [docsite](https://speakeasyapi.dev/docs/api-frameworks/zod/).
+This example Zod schema demonstrates Speakeasy-recommended practices for generating clear OpenAPI specifications optimised for creating production ready client libraries. For the associated tutorial please see our [docsite](https://speakeasyapi.dev/docs/api-frameworks/zod/).
 
 ## Requirements
 
