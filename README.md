@@ -1,11 +1,24 @@
 <div align="center">
-
-<a href="[Speakeasy](https://speakeasyapi.dev/)">
-  <img src="https://github.com/speakeasy-api/speakeasy/assets/68016351/e959f81a-b250-4003-8c5c-a45b9463fc95" alt="Speakeasy Logo" width="400">
-<h2>Speakeasy Zod OpenAPI Example</h2>
-</a>
+ <a href="https://www.speakeasy.com/" target="_blank">
+   <picture>
+       <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/21dd5d3a-aefc-4cd3-abee-5e17ef1d4dad">
+       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0a747f98-d228-462d-9964-fd87bf93adc5">
+       <img width="100px" src="https://github.com/user-attachments/assets/21dd5d3a-aefc-4cd3-abee-5e17ef1d4dad#gh-light-mode-only" alt="Speakeasy">
+   </picture>
+ </a>
+  <h1>Speakeasy</h1>
+  <p>Build APIs your users love ❤️ with Speakeasy</p>
+  <div>
+   <a href="https://speakeasy.com/docs/create-client-sdks/" target="_blank"><b>Docs Quickstart</b></a>&nbsp;&nbsp;//&nbsp;&nbsp;<a href="https://join.slack.com/t/speakeasy-dev/shared_invite/zt-1cwb3flxz-lS5SyZxAsF_3NOq5xc8Cjw" target="_blank"><b>Join us on Slack</b></a>
+  </div>
+ <br />
 
 </div>
+
+<hr />
+
+<h2>Speakeasy Zod OpenAPI Example</h2>
+
 
 This example Zod schema demonstrates Speakeasy-recommended practices for generating clear OpenAPI specifications optimised for creating production ready client libraries. For the associated tutorial please see our [docsite](https://speakeasyapi.dev/docs/api-frameworks/zod/).
 
