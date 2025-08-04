@@ -11,7 +11,6 @@
 
 </div>
 
-<hr />
 
 <h2>Speakeasy Zod OpenAPI Example</h2>
 
